@@ -32,10 +32,6 @@ public class Question1 {
         }
 
         System.out.println("It appears " + count + " times");
-
-        // Close the Scanner object
-        keyboard.close();
-    }
 }
 
 
