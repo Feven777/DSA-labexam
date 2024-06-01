@@ -37,9 +37,9 @@ public class Stack {
         stack.push(1);
         stack.push(2);
         stack.push(3);
-        System.out.println("Size: " + stack.getSize()); // Should print 3
-        System.out.println("Popped: " + stack.pop()); // Should print 3
-        System.out.println("Size: " + stack.getSize()); // Should print 2
+        System.out.println("Size: " + stack.getSize()); 
+        System.out.println("Popped: " + stack.pop()); 
+        System.out.println("Size: " + stack.getSize()); 
     }
 }
 
